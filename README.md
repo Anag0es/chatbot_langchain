@@ -6,7 +6,7 @@ Este repositório apresenta um chatbot interativo desenvolvido com as poderosas 
 
 ## 💡 Sobre o projeto
 
-Explore o fascinante mundo dos **Modelos de Linguagem** e **IA Generativa** com um chatbot que:
+ **Modelos de Linguagem** e **IA Generativa** com um chatbot que:
 
 - 💾 **Lembra o que você diz durante a conversa**, utilizando memória contextual (**ConversationBufferMemory**);
 - 🤖 **Responde de maneira inteligente e fluida**, graças à integração com a OpenAI;
